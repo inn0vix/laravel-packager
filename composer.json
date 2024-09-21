@@ -1,5 +1,5 @@
 {
-    "name": "jeroen-g/laravel-packager",
+    "name": "innovix/laravel-packager",
     "description": "A cli tool for creating Laravel packages.",
     "keywords": [
         "Packager",
@@ -7,13 +7,13 @@
         "package",
         "skeleton"
     ],
-    "homepage": "https://github.com/Jeroen-G/laravel-packager",
+    "homepage": "https://github.com/inn0vix/laravel-packager",
     "license": "EUPL-1.1",
     "authors": [
         {
-            "name": "JeroenG",
-            "email": "jeroengjeroeng@gmail.com",
-            "homepage": "https://github.com/Jeroen-G"
+            "name": "Richard Simard",
+            "email": "innovix@groupesti.com",
+            "homepage": "https://github.com/inn0vix"
         }
     ],
     "require": {
